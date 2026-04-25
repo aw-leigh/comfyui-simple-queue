@@ -18,7 +18,7 @@ Simple Queue is designed to process a folder of images or videos sequentially. I
 1. Navigate to your ComfyUI `custom_nodes` directory
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/comfyui-simple-queue.git](https://github.com/aw-leigh/comfyui-simple-queue.git)
+   git clone https://github.com/aw-leigh/comfyui-simple-queue.git
 3. Restart ComfyUI
 
 ## Usage
